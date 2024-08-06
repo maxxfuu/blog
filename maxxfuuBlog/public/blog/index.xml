@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on Max&#39;s Blog</title>
+    <link>http://localhost:1313/maxxfuu.github.io/blog/</link>
+    <description>Recent content in Blogs on Max&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>maxfu826@gmail.com (Max Fu)</managingEditor>
+    <webMaster>maxfu826@gmail.com (Max Fu)</webMaster>
+    <atom:link href="http://localhost:1313/maxxfuu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/maxxfuu.github.io/blog/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>maxfu826@gmail.com (Max Fu)</author>
+      <guid>http://localhost:1313/maxxfuu.github.io/blog/intro/</guid>
+      <description>Max Os sites de hoje em dia são pesados, lentos e cheios de scripts, propagandas e rastreadores. Isso ficou tão comum que nós perdemos toda a perspectiva, tanto que achamos normal uma página web ter vários megabytes.&#xA;The internet has become a bloated mess. Huge JavaScript libraries, countless client-side queries and overly complex frontend frameworks are par for the course these days.&#xA;&amp;mdash; Kev Quirk&#xA;Vamos mudar isso, um site de cada vez!</description>
+      <content:encoded><![CDATA[<h1 id="max">Max</h1>
+<p>Os sites de hoje em dia são pesados, lentos e cheios de scripts, propagandas e
+rastreadores. Isso ficou tão comum que nós perdemos toda a perspectiva, tanto
+que achamos normal uma página web ter vários megabytes.</p>
+<blockquote>
+<p>The internet has become a bloated mess. Huge JavaScript libraries, countless
+client-side queries and overly complex frontend frameworks are par for the
+course these days.</p>
+<p>&mdash; <a href="https://512kb.club/">Kev Quirk</a></p>
+</blockquote>
+<p>Vamos mudar isso, um site de cada vez! <strong>Bear Cub</strong> é um tema
+<a href="https://gohugo.io/">Hugo</a> baseado no <a href="https://github.com/janraasch/hugo-bearblog/">Hugo
+Bear</a> que toma conta da velocidade
+e otimização para que você possa focar em escrever bons textos.</p>
+<p>Ele é gratuito, multilíngue, otimizado para buscadores, simples, responsivo,
+leve e rápido. Muito rápido.</p>
+<p>Quando comparado ao seu predecessor, o <strong>Bear Cub</strong> tem alguns upgrades de
+<a href="https://themarkup.org/blacklight?url=clente.github.io/hugo-bearcub/">privacidade</a>
+e
+<a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fclente.github.io%2Fhugo-bearcub%2F">acessibilidade</a>.
+Ele também é compatível com as práticas mais modernas de
+<a href="https://github.com/clente/hugo-bearcub#secure">segurança</a> para que seus
+usuários possam aproveitar seu site sem medo.</p>
+<p>Feito com 💟 por <a href="https://lente.dev">Caio lente</a>.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

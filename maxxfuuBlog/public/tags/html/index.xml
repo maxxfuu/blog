@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Html on Max&#39;s Blog</title>
+    <link>http://localhost:1313/maxxfuu.github.io/tags/html/</link>
+    <description>Recent content in Html on Max&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <managingEditor>me@example.com (John Doe)</managingEditor>
+    <webMaster>me@example.com (John Doe)</webMaster>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/maxxfuu.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/maxxfuu.github.io/blog/intro/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <guid>http://localhost:1313/maxxfuu.github.io/blog/intro/</guid>
+      <description>&amp;lt;!doctype html&amp;gt;</description>
+      <content:encoded><![CDATA[<p>&lt;!doctype html&gt;</p>
+<!-- raw HTML omitted -->
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

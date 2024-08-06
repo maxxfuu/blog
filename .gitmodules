@@ -1,0 +1,6 @@
+[submodule "maxxfuuBlog/themes/themes/hugo-bearcub"]
+	path = maxxfuuBlog/themes/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "maxxfuuBlog/themes/hugo-bearcub"]
+	path = maxxfuuBlog/themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
